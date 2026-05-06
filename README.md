@@ -212,6 +212,7 @@ Bank-App/
 │   └── Dashboard.png
 │── Bank.py
 │── requirements.txt
+```
 ---
 ⚙️ Installation & Setup
 1️⃣ Clone Repository
